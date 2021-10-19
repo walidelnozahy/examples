@@ -19,4 +19,4 @@ sls deploy
 ```
 
 See the blog post about this example for more details:
-https://serverless.com/blog/publish-aws-lambda-layers-serverless-framework/
+https://serverless.com/blog/publish-aws-lambda-layers-serverless-framework
