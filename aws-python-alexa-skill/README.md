@@ -10,9 +10,10 @@ authorLink: 'https://github.com/rupakg'
 authorName: 'Rupak Ganguly'
 authorAvatar: 'https://avatars0.githubusercontent.com/u/8188?v=4&s=140'
 -->
+
 # Serverless Alexa Skill Example
 
-This example demonstrates how to setup your own Alexa skill using AWS Lambdas.
+This example demonstrates how to setup your own Alexa skill using AWS Lambdas...
 
 ## Use-cases
 
@@ -66,6 +67,7 @@ Next click on `Add a new Skill`:
 Go through the steps and fill in all the required fields e.g. Intent Schema and Sample Utterances:
 
 Intent Schema
+
 ```
 {
   "intents": [
@@ -83,6 +85,7 @@ Intent Schema
 ```
 
 Sample Utterances
+
 ```
 GetLuckyNumbers what are my lucky numbers
 GetLuckyNumbers tell me my lucky numbers
