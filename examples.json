@@ -828,7 +828,7 @@
   },
   {
     "title": "AWS Serverless Alexa Skill example in Python",
-    "name": "aws-python-alexa-skill",
+    "name": "aws-python-alexa-skill 2",
     "description": "This example demonstrates how to setup your own Alexa skill using AWS Lambdas.",
     "githubUrl": "https://github.com/serverless/examples/tree/master/aws-python-alexa-skill",
     "framework": "v1",
