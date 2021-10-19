@@ -510,7 +510,7 @@
     "priority": 1
   },
   {
-    "title": "AWS Node Scheduled Cron example in NodeJS",
+    "title": "AWS Node Scheduled Cron example in NodeJS 2",
     "name": "aws-node-scheduled-cron",
     "description": "This is an example of creating a function that runs as a cron job using the serverless 'schedule' event.",
     "githubUrl": "https://github.com/serverless/examples/tree/master/aws-node-scheduled-cron",
