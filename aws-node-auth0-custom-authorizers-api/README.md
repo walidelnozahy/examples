@@ -10,7 +10,7 @@ authorLink: 'https://github.com/erezrokah'
 authorName: 'Erez Rokah'
 authorAvatar: 'https://avatars0.githubusercontent.com/u/26760571?v=4&s=140'
 -->
-# API Gateway Custom Authorizer Function + Auth0
+# API Gateway Custom Authorizer Function + Auth0....
 
 This is an example of how to protect API endpoints with [auth0](https://auth0.com/), JSON Web Tokens (jwt) and a [custom authorizer lambda function](https://serverless.com/framework/docs/providers/aws/events/apigateway#http-endpoints-with-custom-authorizers).
 
